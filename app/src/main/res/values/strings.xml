@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ClasesEjemploPostman</string>
+    <string name="Crear">Crear</string>
+    <string name="Editar">Editar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Listar">Listar</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Nombre" />
+    <string name="Estadio">Estadio</string>
+    <string name="Url">Url</string>
+    <string name="Nombres">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Identificacion">Identificacion</string>
+    <string name="Correo">Correo</string>
+    <string name="rol">rol</string>
+    <string name="direccion">direccion</string>
+    <string name="Clave">Clave</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Busquedaescrita">Ingrese los datos</string>
+    <string name="userid">ID del usuario</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+</resources>
